@@ -1,0 +1,14 @@
+D:\ONLUYEN\obj\Debug\net10.0\ONLUYEN.GeneratedMSBuildEditorConfig.editorconfig
+D:\ONLUYEN\obj\Debug\net10.0\ONLUYEN.AssemblyInfoInputs.cache
+D:\ONLUYEN\obj\Debug\net10.0\ONLUYEN.AssemblyInfo.cs
+D:\ONLUYEN\obj\Debug\net10.0\ONLUYEN.csproj.CoreCompileInputs.cache
+D:\ONLUYEN\bin\Debug\net10.0\ONLUYEN.exe
+D:\ONLUYEN\bin\Debug\net10.0\ONLUYEN.deps.json
+D:\ONLUYEN\bin\Debug\net10.0\ONLUYEN.runtimeconfig.json
+D:\ONLUYEN\bin\Debug\net10.0\ONLUYEN.dll
+D:\ONLUYEN\bin\Debug\net10.0\ONLUYEN.pdb
+D:\ONLUYEN\obj\Debug\net10.0\ONLUYEN.dll
+D:\ONLUYEN\obj\Debug\net10.0\refint\ONLUYEN.dll
+D:\ONLUYEN\obj\Debug\net10.0\ONLUYEN.pdb
+D:\ONLUYEN\obj\Debug\net10.0\ONLUYEN.genruntimeconfig.cache
+D:\ONLUYEN\obj\Debug\net10.0\ref\ONLUYEN.dll
