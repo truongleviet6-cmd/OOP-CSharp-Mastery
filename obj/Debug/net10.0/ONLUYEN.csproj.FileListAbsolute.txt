@@ -12,3 +12,4 @@ D:\ONLUYEN\obj\Debug\net10.0\refint\ONLUYEN.dll
 D:\ONLUYEN\obj\Debug\net10.0\ONLUYEN.pdb
 D:\ONLUYEN\obj\Debug\net10.0\ONLUYEN.genruntimeconfig.cache
 D:\ONLUYEN\obj\Debug\net10.0\ref\ONLUYEN.dll
+D:\ONLUYEN\obj\Debug\net10.0\ONLUYEN.sourcelink.json
