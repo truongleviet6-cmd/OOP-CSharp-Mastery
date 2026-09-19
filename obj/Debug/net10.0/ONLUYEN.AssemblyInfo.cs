@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ONLUYEN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90eb674a23e0823f5d1225c74a9e91c5e5239a78")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01aea365b357c93368fc3f4d1dbec5091078e7a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ONLUYEN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ONLUYEN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
